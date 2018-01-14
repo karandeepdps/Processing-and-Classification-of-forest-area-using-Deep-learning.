@@ -1,8 +1,10 @@
 # Processing-and-Classification-of-forest-area-using-Deep-learning.
 
+This is a simple CNN model used to classify forest land.
+
 **Version Final**
 
-[Data:](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data)
+[Data](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data)
 
 Class Labels
 
@@ -11,3 +13,6 @@ The class labels for this task were chosen in collaboration with Planet's Impact
 Above: Sample chips and their labels.
 
 As discussed in the data collection portion of this document, the chip labels are inherently noisy due to the labeling process and ambiguity of features, and scenes may either omit class labels or have incorrect class labels. Part of the challenge of this competition is to figure out how to work with noisy data.
+
+## License & copyright
+(C) Karandeep Singh Dhillon, UPES Dehradun.
